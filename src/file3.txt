@@ -1,0 +1,12 @@
+## Features
+
+- `say_hello()`: Prints the classic "Hello, World!" message
+- `say_hello_to(name)`: Prints a personalized greeting to the specified name
+
+## Requirements
+
+- Python 3.7 or higher
+
+## Installation
+
+1. Clone the repository:
