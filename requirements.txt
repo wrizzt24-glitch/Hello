@@ -1,0 +1,5 @@
+# requirements.txt
+# Python dependencies for hello-app
+# Add dependencies here as needed, for example:
+# requests>=2.28.0
+# pandas>=1.4.0
